@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Cognizant DN3.iml" filepath="$PROJECT_DIR$/.idea/Cognizant DN3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E-Commerce Platform/E-Commerce Platform.iml" filepath="$PROJECT_DIR$/E-Commerce Platform/E-Commerce Platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Employee Management System/Employee Management System.iml" filepath="$PROJECT_DIR$/Employee Management System/Employee Management System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Financial Forecasting/Financial Forecasting.iml" filepath="$PROJECT_DIR$/Financial Forecasting/Financial Forecasting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inventory Management System/Inventory Management System.iml" filepath="$PROJECT_DIR$/Inventory Management System/Inventory Management System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library Management System/Library Management System.iml" filepath="$PROJECT_DIR$/Library Management System/Library Management System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonPatternExample/SingletonPatternExample.iml" filepath="$PROJECT_DIR$/SingletonPatternExample/SingletonPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting Customer Orders/Sorting Customer Orders.iml" filepath="$PROJECT_DIR$/Sorting Customer Orders/Sorting Customer Orders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task Management System/Task Management System.iml" filepath="$PROJECT_DIR$/Task Management System/Task Management System.iml" />
+    </modules>
+  </component>
+</project>
