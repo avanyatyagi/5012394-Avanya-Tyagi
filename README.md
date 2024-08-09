@@ -1,1 +1,1 @@
-This repository includes the solutions of Week 1 assignments of COGNIZANT DIGITAL NURTURE 3.0
+This repository includes the solutions of assignments of DEEP SKILLING phase of COGNIZANT DIGITAL NURTURE 3.0
